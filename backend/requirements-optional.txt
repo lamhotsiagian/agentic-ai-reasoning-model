@@ -1,0 +1,5 @@
+# Heavier evaluation and reranking dependencies. Not required to run the
+# stack; install when you want a local cross-encoder or the full eval suites.
+sentence-transformers==4.1.0     # local cross-encoder reranker
+deepeval==2.9.4                  # LLM evaluation metrics
+ragas==0.2.15                    # RAG-specific evaluation

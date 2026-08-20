@@ -1,0 +1,49 @@
+# --- web / orchestration ----------------------------------------------------
+fastapi==0.115.12
+uvicorn==0.34.3
+python-multipart==0.0.20
+pydantic==2.11.7
+pydantic-settings==2.9.1
+email_validator==2.2.0
+
+# --- LLM stack --------------------------------------------------------------
+langchain==0.3.25
+langchain-openai==0.3.16
+langchain-community==0.3.24
+langchain-ollama==0.2.1
+langchain-postgres==0.0.15
+langgraph==0.5.4
+langgraph-checkpoint-postgres==2.0.23
+
+# --- storage ----------------------------------------------------------------
+SQLAlchemy==2.0.41
+asyncpg==0.30.0
+psycopg[binary]==3.2.1
+pgvector==0.3.6
+neo4j==5.28.1
+
+# --- reasoning layer --------------------------------------------------------
+sqlglot==26.16.4          # SQL AST validation -- NOT a keyword blocklist
+tiktoken==0.9.0           # token accounting for the budget controller
+
+# --- documents --------------------------------------------------------------
+pypdf==5.6.0
+docx2txt==0.9
+
+# --- auth -------------------------------------------------------------------
+PyJWT==2.10.1
+bcrypt==4.3.0
+passlib==1.7.4
+
+# --- observability ----------------------------------------------------------
+loguru==0.7.3
+langfuse==2.60.3
+opentelemetry-api==1.33.1
+opentelemetry-sdk==1.33.1
+opentelemetry-instrumentation-fastapi==0.54b1
+prometheus-client==0.22.0
+
+# --- evaluation -------------------------------------------------------------
+pytest==8.3.5
+pytest-asyncio==0.26.0
+httpx==0.28.1
