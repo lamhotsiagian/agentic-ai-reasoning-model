@@ -10,9 +10,6 @@ Every measurement in the book can be reproduced here. That is the point of the
 project: the labs exist so you can watch the behaviour rather than trust the
 prose.
 
-<img width="1241" height="1754" alt="preview-agentic-1-15_page-0001" src="https://github.com/user-attachments/assets/8a8cb2b5-1f29-4601-b25a-9beb87b6e3c0" />
-
-Ebook link: https://shop.beacons.ai/aiengineeringinsider/471d1489-df65-4cf7-a1b0-f62e2bef8e8d
 
 **Repository:** <https://github.com/lamhotsiagian/agentic-ai-reasoning-model>
 
