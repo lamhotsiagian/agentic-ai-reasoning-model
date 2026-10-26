@@ -7,11 +7,15 @@ test-time compute, and a multi-agent supervisor, served by FastAPI + LangGraph
 behind a Next.js UI, sized to run on a laptop with Ollama.
 
 Every measurement in the book can be reproduced here. That is the point of the
-project: the labs exist so you can watch the behaviour rather than trust the
+project: the labs exist so you can watch the behavior rather than trust the
 prose.
 
+<img width="1241" height="1754" alt="f1215b97-fa74-463c-a72a-7f7bc007d1a9_1241x1754" src="https://github.com/user-attachments/assets/a5b90c6c-502f-45b3-907e-0f8c6d424de3" />
 
-**Repository:** <https://github.com/lamhotsiagian/agentic-ai-reasoning-model>
+
+Preview: https://drive.google.com/file/d/13mApBIwlHpOGaXtVqwHR0dSzHwL8d23n/view
+
+ebook link: https://shop.beacons.ai/aiengineeringinsider/25184785-a366-4a6c-9edb-6677d1f325c1?
 
 ---
 
